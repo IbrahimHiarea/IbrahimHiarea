@@ -7,6 +7,23 @@
 
 - 📫 How to reach me **ibrahimhiarea2@gmail.com**
 
+- 
+## About Me
+
+I am currently pursuing my Bachelor's degree in Software Engineering at Damascus University. Throughout my academic journey, I have gained a solid foundation in computer science fundamentals, including algorithms, data structures, and software development principles. This knowledge has enabled me to excel in various programming competitions, such as the International Collegiate Programming Contest (ICPC), where I have showcased my problem-solving abilities.
+
+## Skills
+
+- **React JS Development**: I am proficient in building modern web applications using React JS. With hands-on experience in developing interactive user interfaces, I have a deep understanding of React's ecosystem, including Redux, React Router, and Material-UI.
+
+- **Algorithms and Data Structures**: Having a strong grasp of algorithms and data structures, I can efficiently design and implement optimized solutions to complex computational problems. I enjoy analyzing algorithms, improving time complexity, and finding elegant solutions.
+
+- **Web Development**: Alongside React JS, I have a solid foundation in web development technologies like HTML, CSS, and JavaScript. I am well-versed in responsive web design principles and have experience with front-end frameworks like Bootstrap.
+
+- **Version Control and Collaboration**: I am proficient in using Git for version control and have collaborated on multiple projects using GitHub. I understand the importance of clean code, documentation, and effective collaboration within a team.
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-hiarea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-hiarea/" height="30" width="40" /></a>
