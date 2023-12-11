@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ibrahimhiarea2@gmail.com**
 
-- 
 ## About Me
 
 I am currently pursuing my Bachelor's degree in Software Engineering at Damascus University. Throughout my academic journey, I have gained a solid foundation in computer science fundamentals, including algorithms, data structures, and software development principles. This knowledge has enabled me to excel in various programming competitions, such as the International Collegiate Programming Contest (ICPC), where I have showcased my problem-solving abilities.
